@@ -34,11 +34,11 @@ The whole lot of it.
 
 These are the best ways to get in touch with me, ordered by quickest to slowest average response time:
 
-*Discord*  
+**Discord**  
 Hesser#8008
 
-*Email*  
+**Email**  
 ryan.vermey@gmail.com
 
-*Reddit*  
+**Reddit**  
 /u/Oke_oku
