@@ -27,11 +27,9 @@ A Tron inspired disc throwing game with PvP and PvE.
 A tile based stacking game with a twist.
 
 ## [EasyForms](https://marketplace.yoyogames.com/assets/10060/easyforms)
-> Everything.
+> The whole lot of it.
 
 A super flexable tool for creating functional window/form based UI with minimal code.
 
+# Contact Me
 
-
-
-# My Skills
