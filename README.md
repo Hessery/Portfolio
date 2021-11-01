@@ -1,6 +1,4 @@
-## Hi, i'm Hessery. I design and build games from the ground up.
-
-I create stable, functional and clean code, and love to do it!
+## I create stable, functional and clean code, and love to do it!
 If you're looking for a passionate, self taught programmer who performs in team based enviroments, you've found your guy.
 
 ---
