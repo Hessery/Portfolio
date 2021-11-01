@@ -1,2 +1,0 @@
-## Looking for a programmer?
-
