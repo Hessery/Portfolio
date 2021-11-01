@@ -7,29 +7,26 @@ If you're looking for a passionate, self taught programmer who performs in team 
 Here are a few projects I've recently worked on. Want to know more? Contact me.
 
 ## [Wold Pack Island](https://apps.apple.com/app/id1453048068)
-> In app purchases and mini games.
-
-A club penguin inspired mmo for pc/mac/android/ios.
+A club penguin inspired mmo for pc/mac/android/ios.  
+In app purchases and mini games.
 
 ## [39th gm(48) - Little Cosmonaunt](https://gm48.net/game/1971/little-cosmonaut)
-> Team leader, programming and sound and level design.
-
-A relaxing exploration based platformer about building a rocket.
+A relaxing exploration based platformer about building a rocket.  
+Team leader, programming and sound and level design.
 
 ## [38th gm(48) - Disc Dash](https://gm48.net/game/1855/disc-dash)
-> Team leader, programing and ai.
-
-A Tron inspired disc throwing game with PvP and PvE.
+A Tron inspired disc throwing game with PvP and PvE.  
+Team leader, programing and ai.
 
 ## [Crazy Eight Collector](https://oke-oku.itch.io/crazy-eight-collector)
-> Everything.
-
-A tile based stacking game with a twist.
+A tile based stacking game with a twist.  
+Everything.
 
 ## [EasyForms](https://marketplace.yoyogames.com/assets/10060/easyforms)
-> The whole lot of it.
-
-A super flexable tool for creating functional window/form based UI with minimal code.
+A super flexable tool for creating functional window/form based UI with minimal code.  
+The whole lot of it.
+  
+---
 
 # Contact Me
 
