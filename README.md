@@ -1,6 +1,6 @@
-## Hi, i'm Hessery.
+## Hi, i'm Hessery. I design and build games from the ground up.
 
-### I design and build games from the ground up.
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
