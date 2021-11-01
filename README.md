@@ -6,6 +6,10 @@ If you're looking for a passionate, self taught programmer who performs in team 
 # Recent Work
 Here are a few projects I've recently worked on. Want to know more? Contact me.
 
+[Wold Pack Island](https://apps.apple.com/app/id1453048068)
+A club penguin inspired mmo for pc/mac/android/ios.
+In app purchases and mini games.
+
 [39th gm(48) - Little Cosmonaunt](https://gm48.net/game/1971/little-cosmonaut)
 A relaxing exploration based platformer about building a rocket.
 Team leader, programming and sound and level design.
