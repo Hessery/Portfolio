@@ -3,9 +3,11 @@
 I create stable, functional and clean code, and love to do it!
 If you're looking for a passionate, self taught programmer who performs in team based enviroments, you've found your guy.
 
+# Recent Work
+Here are a few projects I've recently worked on. Want to know more? Contact me.
 
-
-
+[GM(48) - Little Cosmonaunt](https://gm48.net/game/1971/little-cosmonaut)
+Team leader, programming and sound and level design.
 
 
 
