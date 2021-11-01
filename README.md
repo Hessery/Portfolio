@@ -1,6 +1,17 @@
 ## Hi, i'm Hessery. I design and build games from the ground up.
 
-### 
+If you're looking for a passionate, self taught programmer who performs in team based enviroments, you've found your guy.
+
+
+
+
+
+
+
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
