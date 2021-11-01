@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Older Experiences
 
 [**Crapple OS**](http://nenjine.com/projects.html)  
