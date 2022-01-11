@@ -28,7 +28,7 @@ Solo Developer.
 A super flexible tool for creating functional window/form based UI with minimal code.  
 Solo Developer.
   
-[**Not what you're looking for?**](./older-experiences.md)  
+[**Not what you're looking for?**](./other-skills.md)  
 I have more skills that are not directly tied to these projects, some of which I picked up on personal projects and projects that are still in development.
   
 ---
