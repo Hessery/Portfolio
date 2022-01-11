@@ -29,7 +29,7 @@ A super flexible tool for creating functional window/form based UI with minimal 
 Solo Developer.
   
 [**Not what you're looking for?**](./older-experiences.md)  
-I have more experience that is not directly tied to these projects, some of which I picked up on personal projects.
+I have more skills that are not directly tied to these projects, some of which I picked up on personal projects and projects that are still in development.
   
 ---
 
