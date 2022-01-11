@@ -22,14 +22,14 @@ Team leader, programming and ai.
 
 [**Crazy Eight Collector**](https://oke-oku.itch.io/crazy-eight-collector)  
 A tile based stacking game with a twist.  
-Everything.
+Solo Developer.
 
 [**EasyForms**](https://marketplace.yoyogames.com/assets/10060/easyforms)  
 A super flexible tool for creating functional window/form based UI with minimal code.  
-The lot of it.
+Solo Developer.
   
 [**Not what you're looking for?**](./older-experiences.md)  
-I have more experience that is not directly tied to these projects, some of which I picked up on personal projects that never saw the light of day.
+I have more experience that is not directly tied to these projects, some of which I picked up on personal projects.
   
 ---
 
