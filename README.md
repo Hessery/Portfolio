@@ -40,6 +40,9 @@ These are the best ways to get in touch with me, ordered by quickest to the slow
 **Discord**  
 Hessery#8008
 
+**Fiver**  
+[Hessery](https://www.fiverr.com/hessery/code-features-or-games-for-you-in-gamemaker-studio-2)
+
 **Email**  
 ryan.vermey@gmail.com
 
