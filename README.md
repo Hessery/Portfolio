@@ -35,6 +35,10 @@ I have more skills that are not directly tied to these projects, some of which I
 
 # Recommendations
 
+**tim0thymurray**  
+"Everything was just like I asked, it was a fairly difficult idea to conceptualize as well."  
+5★ on Fiverr.
+
 ---
 
 # Contact Me
