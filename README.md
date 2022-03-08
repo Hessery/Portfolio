@@ -30,7 +30,18 @@ Solo Developer.
   
 [**Not what you're looking for?**](./other-skills.md)  
 I have more skills that are not directly tied to these projects, some of which I picked up on personal projects and projects that are still in development.
-  
+
+---
+
+# Recommendations
+
+**tim0thymurray**  
+"Everything was just like I asked, it was a fairly difficult idea to conceptualize as well."  
+5★ on Fiverr.
+
+**SparklingPhoenix**  
+"Hessery is a very professional and knowledgeable person. I was only able to understand the nuances in different platforms when developing Multiplayer games in  GameMaker Studio 2 thanks to their amazing documentation and guidance on this. Definitely need more people like them around in the community"  
+
 ---
 
 # Contact Me
