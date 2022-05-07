@@ -8,7 +8,7 @@ If you're looking for a passionate, self-taught programmer who performs in team 
 Here are a few projects I've recently worked on, as well as what I did on them.  
 Want to know more? Contact me!
 
-[**Wolf Pack Island**](https://apps.apple.com/app/id1453048068)  
+[**Wolf Pack Island**](https://store.steampowered.com/app/1031970/Wolfpack_Island/)  
 A club penguin inspired mmo for pc/mac/android/ios.  
 In app purchases and mini games.
 
