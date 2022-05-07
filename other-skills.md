@@ -10,6 +10,6 @@ Solo Developer.
 
 [**Grimbark**](https://twitter.com/grimmbark)  
 Grimbark is a 2D metroidvania roguelite in development by Netherpixel Studios.  
-[Procedual level generation and tiling](https://github.com/Hessery/lvGen_readme).
+[Procedual level generation, tiling, bosses, crafting and controller support](https://github.com/Hessery/lvGen_readme).
 
 [**Go Back**](./README.md)
